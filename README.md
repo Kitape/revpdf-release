@@ -32,7 +32,7 @@ Select your platform below to download the latest stable release:
 - [Latest DMG](macos/)
 
 #### 🪟 Windows
-- Coming Soon
+- [Latest Beta (exe)](windows/)
 
 ---
 
